@@ -12,8 +12,6 @@ Many examples here come from the lessons I learned by going though the brilliant
 
 Happy Programming
 
-As an additional quick note - these examples were oringally set up in 088. 099 has a few changes to the way python is being used, especially when it comes to executes. I'm slowly porting over these to 099, but for now you'll find that there's an 088 version of this project in the directory called 088.
-
 ## Contents and Descriptions ##
 
 ### example_print ###
