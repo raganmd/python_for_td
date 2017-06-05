@@ -35,50 +35,8 @@ The essential idea here, however, is that you have something that you want to re
 
 *Overview*
 
-References are one of the engines of TouchDesgner. They're how we connect elements, and move information between operator families (and many other things as well.) I've written a good chunk already about understanding references - [check out understanding referencingg](http://matthewragan.com/2014/06/01/understanding-referencing-touchdesigner/), and [understanding referencing part 2](http://matthewragan.com/2014/06/27/understanding-referencing-part-ii-touchdesigner/) - so I'm not going to do my best not to revisit all of that same information. 
+YAOWZA!
 
-I do, however, want to look at referencing from the stand point of Python. The most important thing we might do is understand the anatomy of a python expression used in as a reference to another operator.
-
-### example_logic ###
-
-*Overview*
-
-Logical statements are profoundly helpful for us when we're trying to convert an idea from what we understand, into something that a machine can interpret and act upon. Keeping that in mind, we need ways to distill ideas to their most fundamental pieces. What on earth do I mean? Well, we might think about ideas like greater than '>' , less than '<' , equal to '==' , and not equal to '!='. Further, we need to consider how we indicate when something might happen. This this set of examples we're going to focus on 'if' and 'else', as well as 'if' and 'elif' statements. What does all of that mean, well lets dig in and find out.
-
-### example_data_structures ###
-
-*Overview*
-
-Short description here
-
-### example_executes ###
-
-*Overview*
-
-Short description here
-
-### example_for_loop ###
-
-*Overview*
-
-Short description here
-
-### example_dictionary_loops ###
-
-*Overview*
-
-Short description here
-
-### example_functions ###
-
-*Overview*
-
-Short description here
-
-### example_modules ###
-
-*Overview*
-
-Short description here
+I've got no content here... well truth be told, I haven't ported all of these exmaples to 099 yet. We'll get there, so hang tight!
 
 _documentation written in markdown_
